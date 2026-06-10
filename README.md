@@ -10,7 +10,7 @@ NOTE: I have written 4 research papers synthesized from the information in this 
 
 https://github.com/user-attachments/assets/03e31c9e-7d54-4c65-996a-0a635caf3394
 
-See [here](https://github.com/sovrynn/ecdo/tree/master/6-LITERATURE-MEDIA/nobulart/ecdo-visualizations) for the full-res visualization.
+See [here](6-LITERATURE-MEDIA/0-nobulart/ecdo-visualizations) for the full-res visualization.
 
 Organization of the repo is mainly done through self-explanatory directory/file names. Information is written into `README.md` (Markdown) files, and embedded media is placed into `img/` folders at each step of the directory tree.
 
